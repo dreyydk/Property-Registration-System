@@ -1,6 +1,6 @@
 # Property-Registration-System 🏢
 
-The Property Registration System (PRS) is a web-based application created for study purposes, it allows the user to simulate a property management system. Its proposal is to allow the user to simulate property management, being developed with simple technologies (HTML and CSS) and taking up few lines of code.
+The Property Registration System (PRS) is a web-based application created for study purposes. Its proposal is to allow the user to simulate property management, being developed with simple technologies (HTML and JS) and taking up few lines of code.
 
 ## Features 📄
 
